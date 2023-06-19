@@ -1,0 +1,3 @@
+20230618	19:44:08	353ea336-052e-41c8-b1f1-de788c8e4899	Error : Not allowed by CORS
+20230618	19:44:44	16a11f77-f403-4bb9-ae2a-56dece17c689	Error : Not allowed by CORS
+20230618	19:45:21	07a7c74e-6a59-4d2a-9cd3-93527c5b44a7	Error : Not allowed by CORS
